@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="sent_message_background">#ffb41f</color>
+    <color name="recieved_message_background">#3700B3</color>
+    <color name="purple_500">#250055</color>
+    <color name="purple_700">#470077</color>
+    <color name="white">#ffffff</color>
+    <color name="teal_200">#000c22</color>
+    <color name="teal_700">#002a77</color>
+    <color name="black">#000000</color>
+</resources>

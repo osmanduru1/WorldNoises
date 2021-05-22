@@ -1,0 +1,2 @@
+rootProject.name = "dunya_sesi"
+include ':app'
